@@ -1,4 +1,4 @@
-# Hello there 👋
+# 👋 Hello there
 
 My name is Sameer Ali and I'm currently a Computer Science student living in London. Working on improving life through code by "automating the boring stuff".
 
