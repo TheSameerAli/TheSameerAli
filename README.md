@@ -1,6 +1,6 @@
 # 👋 Hello
 
-My name is Sameer Ali and I'm currently a Computer Science student living in London. Working on improving life through code by "automating the boring stuff".
+My name is Sameer Ali and I'm currently a Computer Science graduate living in London. Working on improving life through code by "automating the boring stuff".
 
 ## 🔧 Technologies & Tools
 
